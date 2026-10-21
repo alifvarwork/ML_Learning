@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MazeExample": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
