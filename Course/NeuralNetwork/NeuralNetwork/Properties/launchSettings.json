@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NeuralNetwork": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
